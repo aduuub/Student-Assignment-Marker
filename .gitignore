@@ -1,5 +1,5 @@
-
-marking/
-out/
+marking/*
+out/*
 *.class
-swen221/assignment1/LeftWalker.java
+swen221/*
+META-INF/

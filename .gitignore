@@ -3,3 +3,8 @@ out/
 *.class
 swen221/*
 META-INF/
+*.idea
+*.settings
+*.classpath
+*.project
+*.iml

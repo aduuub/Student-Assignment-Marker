@@ -1,5 +1,5 @@
-marking/*
-out/*
+marking/
+out/
 *.class
 swen221/*
 META-INF/

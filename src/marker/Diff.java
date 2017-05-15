@@ -38,6 +38,8 @@ public class Diff {
 			}
 		}
 
+	
+
 		// recover LCS itself and print out non-matching lines to standard
 		// output
 		int i = 0, j = 0;
